@@ -35,8 +35,6 @@ INSTALLED_APPS = [
     'Product',
     'Ordering',
     'Address',
-    'api',
-    'rest_framework',
 
 
     #THIRD PARTY APPS
